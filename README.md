@@ -1,5 +1,5 @@
 # Hello! :)
-[![instagram Badge](http://img.shields.io/badge/instagram-#E4405F?style=flat-square&logo=instagram&link=https://www.instagram.com/seon_jae_0/)](https://www.instagram.com/seon_jae_0/)
+[![instagram Badge](http://img.shields.io/badge/instagram-#E4405F?style=flat-square&logo=Instagram&link=https://www.instagram.com/seon_jae_0/)](https://www.instagram.com/seon_jae_0/)
 ## Introduction
 Name : JaeYoung Seon<br>
 Department of Software Convergence. Kyung Hee Univ. 20
