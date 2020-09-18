@@ -6,6 +6,11 @@
 ## Social
 * instagram [![instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seon_jae_0/)](https://www.instagram.com/seon_jae_0/)
 * facebook [![facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100045249120668)](https://www.facebook.com/profile.php?id=100045249120668)
+## I learned..
+* C
+* C# (and Unity3D)
+* Python
+* HTML, CSS, JavaScript (Web)
 <!--
 **tjswodud/tjswodud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
