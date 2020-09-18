@@ -1,5 +1,5 @@
-### Hello! :)
-# Introduction
+# Hello! :)
+## Introduction
 Name : JaeYoung Seon<br>
 Department of Software Convergence. Kyung Hee Univ. 20
 
