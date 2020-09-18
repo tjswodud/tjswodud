@@ -1,6 +1,6 @@
 ### Hello! :)
 # Introduction
-Name : JaeYoung Seon</src>
+Name : JaeYoung Seon<br>
 Department of Software Convergence. Kyung Hee Univ. 20
 
 <!--
