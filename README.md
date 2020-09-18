@@ -4,7 +4,7 @@
 * Department of Software Convergence. Kyung Hee Univ. 20<br>
 * Work : Video Edit Department of SWTUBE (2020.2~)   ![YouTube Video Views](https://img.shields.io/youtube/views/cOQt56LOjdk?style=social)
 ## Social
-* instagram : ![Instagram Badge](http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&link=https://www.instagram.com/seon_jae_0/?hl=ko)
+* instagram : [![instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seon_jae_0/)](https://www.instagram.com/seon_jae_0/)
 <!--
 **tjswodud/tjswodud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
