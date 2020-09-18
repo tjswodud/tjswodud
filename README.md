@@ -1,8 +1,8 @@
 # Hello! :)
 ## Introduction
-Name : JaeYoung Seon<br>
-Department of Software Convergence. Kyung Hee Univ. 20<br>
-![Instagram badge](http://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&link=https://www.instagram.com/seon_jae_0/?hl=ko)
+* Name : JaeYoung Seon<br>
+* Department of Software Convergence. Kyung Hee Univ. 20<br>
+
 <!--
 **tjswodud/tjswodud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
