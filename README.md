@@ -3,6 +3,8 @@
 * Name : JaeYoung Seon<br>
 * Department of Software Convergence. Kyung Hee Univ. 20<br>
 * Work : Video Edit Department of SWTUBE (2020.2~)   ![YouTube Video Views](https://img.shields.io/youtube/views/cOQt56LOjdk?style=social)
+## Social
+* instagram : ![Instagram Badge](https://img.shields.io/badge/-instagram-E4405F)
 <!--
 **tjswodud/tjswodud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
