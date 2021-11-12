@@ -2,13 +2,13 @@
 <br>
 ![tjswodud's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjswodud&show_icons=true&theme=cobalt)
 ## &#128218; I have learned...
-* Python
-* C/C++
+* <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=Python&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 * Web Programming
 * Unity & Unreal Engine(Game Dev.)
 ## &#127955; Hobby
 * Gaming &#127918;
-* Video Editing &#127916;
+* Video Editing 🎬
 * Watching Soccer (EPL, UCL, etc) :blue_heart:
 ---
 <a href="https://www.instagram.com/jae_young.02" target="_blank"><img src="https://img.shields.io/badge/jae_young.02-white?style=round-square&logo=Instagram&logoColor=E4405F"/></a>
