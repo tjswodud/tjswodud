@@ -1,6 +1,10 @@
 # `Hello World!`
+<div align="right">
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjswodud&count_bg=%2341AEFF&title_bg=%23373737&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  
+</div>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjswodud&layout=compact&theme=cobalt&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 ![tjswodud's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjswodud&show_icons=true&theme=cobalt)
