@@ -17,7 +17,7 @@
 - Kyung Hee Univ. Software Convergence - Game Contents Track (2020.03~)
 ### ETC
 - "Video Editor & Vice Chairman" of <b>SWTUBE</b><br>
-<a href="https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ"><img src="https://img.shields.io/badge/SWTUBE-000000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ"><img src="https://img.shields.io/badge/SWTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 ## &#128218; TECH STACK
 * <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=Python&logoColor=white"/></a>
