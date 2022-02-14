@@ -10,6 +10,15 @@
 ![tjswodud's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjswodud&show_icons=true&theme=cobalt)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjswodud01)](https://solved.ac/tjswodud01)
 
+## 😎 About Me
+### Profile
+- <b>Name</b>: Seon Jae-young
+- Sindang High School (2017.03~2020.02)
+- Kyung Hee Univ. Software Convergence - Game Contents Track (2020.03~)
+### ETC
+- "Video Editor & Vice Chairman" of <b>SWTUBE</b><br>
+<a href="https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ"><img src="https://img.shields.io/badge/SWTUBE-000000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+
 ## &#128218; TECH STACK
 * <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=Python&logoColor=white"/></a>
 * <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
