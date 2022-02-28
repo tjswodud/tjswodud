@@ -10,7 +10,7 @@
 
 ## 😎 About Me
 ### Profile
-- <b>Name</b>: Seon Jae-young
+- <b>Name</b>: Seon Jae-young (선재영)
 - Sindang High School (2017.03~2020.02)
 - Kyung Hee Univ. Software Convergence - Game Contents Track (2020.03~)
 ### ETC
