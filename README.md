@@ -26,7 +26,8 @@
 ## 📖 I'm studying now...
 - Operating System
 - Computer Graphics (DirectX)
-- GAN, CNN
+- **GAN** (**G**enerative **A**dversarial **N**etwork)
+- **CNN** (**C**onvolutional **N**eural **N**etwork)
 
 ## &#127955; Hobby
 * Gaming &#127918;
