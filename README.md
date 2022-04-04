@@ -32,7 +32,8 @@
 ## &#127955; Hobby
 * Gaming &#127918;
 * Video Editing 🎬
-* Watching Soccer (EPL, UCL, etc) <b>COYS</b>!!💙
+* Watching Soccer (EPL, UCL, etc) <b>COYS</b>![android-icon-36x36](https://user-images.githubusercontent.com/42963882/161534345-2749270d-3484-4a04-8459-0460f2e3bb69.png)
+
 
 # Contact
 <a href="https://www.instagram.com/jae_young.02" target="_blank"><img src="https://img.shields.io/badge/jae_young.02-white?style=round-square&logo=Instagram&logoColor=E4405F"/></a>
