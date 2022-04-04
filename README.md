@@ -25,7 +25,8 @@
 
 ## 📖 I'm studying now...
 - Operating System
-- Computer Graphics
+- Computer Graphics (DirectX)
+- GAN, CNN
 
 ## &#127955; Hobby
 * Gaming &#127918;
