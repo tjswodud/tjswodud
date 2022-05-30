@@ -27,7 +27,7 @@
 * Unity & Unreal Engine (Game Development)
 
 ## 📖 I'm studying now...
-- Operating System
+- [Operating System](https://velog.io/@tjswodud/series/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
 - [Computer Graphics](https://github.com/tjswodud/GameGraphicProgramming_2020105708_JaeYoungSeon) (DirectX)
 - **GAN** (**G**enerative **A**dversarial **N**etwork)
 - **CNN** (**C**onvolutional **N**eural **N**etwork)
