@@ -13,9 +13,12 @@
 - <b>Name</b>: Seon Jae-young (선재영)
 - Sindang High School (2017.03~2020.02)
 - Kyung Hee Univ. Software Convergence - Game Contents Track (2020.03~)
-### ETC
-- "Video Editor & Vice Chairman" of <b>SWTUBE</b><br>
-<a href="https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ"><img src="https://img.shields.io/badge/SWTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+
+- "Video Editor & Vice Chairman" of  <a href="https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ"><img src="https://img.shields.io/badge/SWTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+
+## 📝 Personal Blog
+- [velog](https://velog.io/@tjswodud)
+- [notion blog](https://gigantic-evening-c53.notion.site/Seon-s-Dev-Study-70d6c8d4d1264d0eb9199e07d1685b8c)
 
 ## &#128218; TECH STACK
 * <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -25,14 +28,14 @@
 
 ## 📖 I'm studying now...
 - Operating System
-- Computer Graphics (DirectX)
+- [Computer Graphics](https://github.com/tjswodud/GameGraphicProgramming_2020105708_JaeYoungSeon) (DirectX)
 - **GAN** (**G**enerative **A**dversarial **N**etwork)
 - **CNN** (**C**onvolutional **N**eural **N**etwork)
 
 ## &#127955; Hobby
 * Gaming &#127918;
 * Video Editing 🎬
-* Watching Soccer (EPL, UCL, etc) <b>COYS</b>![android-icon-36x36](https://user-images.githubusercontent.com/42963882/161534345-2749270d-3484-4a04-8459-0460f2e3bb69.png)
+* Watching Football League ⚽
 
 
 # Contact
