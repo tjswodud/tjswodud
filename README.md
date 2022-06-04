@@ -18,7 +18,7 @@
 
 ## 📝 Personal Blog
 - [velog](https://velog.io/@tjswodud)
-- [notion blog](tjswodud.notion.site)
+- [notion blog](https://tjswodud.notion.site/)
 
 ## &#128218; TECH STACK
 * <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=Python&logoColor=white"/></a>
