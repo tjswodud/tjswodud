@@ -18,7 +18,7 @@
 
 ## 📝 Personal Blog
 - [velog](https://velog.io/@tjswodud)
-- [notion blog](https://gigantic-evening-c53.notion.site/Seon-s-Dev-Study-70d6c8d4d1264d0eb9199e07d1685b8c)
+- [notion blog](tjswodud.notion.site)
 
 ## &#128218; TECH STACK
 * <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=Python&logoColor=white"/></a>
