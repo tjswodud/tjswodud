@@ -16,21 +16,22 @@
 
 - "Video Editor & Vice Chairman" of  <a href="https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ"><img src="https://img.shields.io/badge/SWTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
+## &#128218; TECH STACK
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Html5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Css3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/Unreal Engine-0E1128.svg?&style=for-the-badge&logo=UnrealEngine&logoColor=white"/>
+
 ## 📝 Personal Blog
 - [velog](https://velog.io/@tjswodud)
 - [notion blog](https://tjswodud.notion.site/)
 
-## &#128218; TECH STACK
-* <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=Python&logoColor=white"/></a>
-* <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-* Web Programming (HTML & CSS & JavaScript)
-* Unity & Unreal Engine (Game Development)
-
 ## 📖 I'm studying now...
-- [Operating System](https://velog.io/@tjswodud/series/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
-- [Computer Graphics](https://github.com/tjswodud/GameGraphicProgramming_2020105708_JaeYoungSeon) (DirectX)
-- **GAN** (**G**enerative **A**dversarial **N**etwork)
-- **CNN** (**C**onvolutional **N**eural **N**etwork)
+- [Algorithm](https://tjswodud.notion.site/Foundations-of-Algorithms-83ea5a52233e4120bb6b8b9845c7bec7)
+- [Deep Learning](https://velog.io/@tjswodud/%EB%94%A5%EB%9F%AC%EB%8B%9D-01.-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80-Linear-Regression)                                   
 
 ## &#127955; Hobby
 * Gaming &#127918;
