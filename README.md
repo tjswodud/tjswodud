@@ -30,8 +30,8 @@ Kyung Hee Univ. Software Convergence - Game Contents Track (2020.03~)
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 <br>
 
-<img src="https://img.shields.io/badge/Html5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Css3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Html-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Css-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
 <br>
 
