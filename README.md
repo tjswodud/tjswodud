@@ -3,11 +3,12 @@
 <div align="center">
 
 ![tjswodud's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjswodud&show_icons=true&theme=cobalt)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjswodud&layout=compact&theme=cobalt&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-## <div align="center"> 😎 About Me </div>
+# <div align="center"> 😎 About Me </div>
 
 <div align="center">
 
@@ -22,7 +23,7 @@ Kyung Hee Univ. Software Convergence - Game Contents Track (2020.03~)
 
 </div>
 
-## <div align="center"> &#128218; TECH STACK </div>
+# <div align="center"> &#128218; TECH STACK </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -39,7 +40,7 @@ Kyung Hee Univ. Software Convergence - Game Contents Track (2020.03~)
 <br>
 </div>
 
-## <div align="center"> 📝 Personal Blog </div>
+# <div align="center"> 📝 Personal Blog </div>
 
 <div align="center">
 
@@ -50,7 +51,7 @@ Kyung Hee Univ. Software Convergence - Game Contents Track (2020.03~)
 
 </div>
 
-## <div align="center"> 📖 I'm studying now... </div>
+# <div align="center"> 📖 I'm studying now... </div>
 
 <div align="center">
 
@@ -61,7 +62,7 @@ Kyung Hee Univ. Software Convergence - Game Contents Track (2020.03~)
 
 </div>
 
-## <div align="center"> &#127955; Hobby </div>
+# <div align="center"> &#127955; Hobby </div>
 <div align="center">
 
 🎮 Video Game
@@ -76,7 +77,7 @@ Kyung Hee Univ. Software Convergence - Game Contents Track (2020.03~)
 </div>
 
 
-# <div align="right"> Contact </div>
+# <div align="right"> 🔗 Contact </div>
 
 <div align="right">
 
