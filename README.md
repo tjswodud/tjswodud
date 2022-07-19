@@ -44,9 +44,11 @@ Kyung Hee Univ. Software Convergence - Game Contents Track (2020.03~)
 
 <div align="center">
 
-[velog](https://velog.io/@tjswodud)
+[Tistory](https://chukdukdev.tistory.com/)
 <br>
-[notion blog](https://tjswodud.notion.site/)
+[Velog](https://velog.io/@tjswodud)
+<br>
+[Notion blog](https://tjswodud.notion.site/)
 <br>
 
 </div>
