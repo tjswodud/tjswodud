@@ -18,7 +18,7 @@ Sindang High School (2017.03~2020.02)
 Kyung Hee Univ. Software Convergence - Game Contents Track (2020.03~)
 <br>
 
-"Video Editor & Vice Chairman" of &nbsp; <a href="https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ"><img src="https://img.shields.io/badge/소융튜브-FF0000?style=flat&logo=youtube"></a>
+Vice Chairman of &nbsp; <a href="https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ"><img src="https://img.shields.io/badge/소융튜브-FF0000?style=flat&logo=youtube"></a>
 <br>
 
 </div>
