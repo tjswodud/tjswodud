@@ -1,6 +1,4 @@
-# <div align="center"> 💻 Seon Jaeyoung - `@tjswodud` 💻 </div>
-
-<div align="center">
+# 💻 Seon Jaeyoung - `@tjswodud` 💻 </div>
 
 ![tjswodud's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjswodud&show_icons=true&theme=cobalt)
 <br>
@@ -8,9 +6,7 @@
 
 </div>
 
-# <div align="center"> 😎 About Me </div>
-
-<div align="center">
+# 😎 About Me </div>
 
 Sindang High School (2017.03~2020.02)
 <br>
@@ -23,8 +19,8 @@ Vice Chairman of &nbsp; <a href="https://www.youtube.com/channel/UCoJhIFodUrsH8s
 
 </div>
 
-# <div align="center"> &#128218; TECH STACK </div>
-<div align="center">
+# &#128218; TECH STACK </div>
+<div align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -40,9 +36,7 @@ Vice Chairman of &nbsp; <a href="https://www.youtube.com/channel/UCoJhIFodUrsH8s
 <br>
 </div>
 
-# <div align="center"> 📝 Personal Blog </div>
-
-<div align="center">
+# 📝 Personal Blog </div>
 
 [Tistory](https://chukdukdev.tistory.com/)
 <br>
@@ -53,9 +47,7 @@ Vice Chairman of &nbsp; <a href="https://www.youtube.com/channel/UCoJhIFodUrsH8s
 
 </div>
 
-# <div align="center"> 📖 I'm studying now... </div>
-
-<div align="center">
+# 📖 I'm studying now... </div>
 
 [Algorithm](https://tjswodud.notion.site/Foundations-of-Algorithms-83ea5a52233e4120bb6b8b9845c7bec7)
 <br>
@@ -64,8 +56,7 @@ Vice Chairman of &nbsp; <a href="https://www.youtube.com/channel/UCoJhIFodUrsH8s
 
 </div>
 
-# <div align="center"> &#127955; Hobby </div>
-<div align="center">
+# &#127955; Hobby </div>
 
 🎮 Video Game
 <br>
