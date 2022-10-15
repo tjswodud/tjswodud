@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&section=header&text=Hello%20World%20:%29&fontSize=30)
+
 ![tjswodud's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjswodud&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjswodud&layout=compact&theme=dracula&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -58,4 +60,4 @@ Database (SQL)
 
 <a href="https://www.instagram.com/jae_young.02" target="_blank"><img src="https://img.shields.io/badge/jae_young.02-white?style=round-square&logo=Instagram&logoColor=E4405F"/></a>
 <a href="mailto:tjswodud85@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-F07C3E?style=round-square&logo=Gmail&logoColor=EA4335"/></a>
-<br>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
