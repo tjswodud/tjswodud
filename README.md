@@ -27,7 +27,7 @@
 
 <br>
 
-# 📝 Personal Blog
+# ✍️ Personal Blog
 
 [Tistory](https://chukdukdev.tistory.com/) - University lecture 🎓
 <br>
