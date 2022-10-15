@@ -53,15 +53,13 @@
 <br>
 [Deep Learning](https://velog.io/@tjswodud/%EB%94%A5%EB%9F%AC%EB%8B%9D-01.-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80-Linear-Regression)
 <br>
+Database (SQL)
 
 </div>
 
 # &#127955; Hobby </div>
 
 🎮 Video Game
-<br>
-
-🎬 Video Editing
 <br>
 
 ⚽ Watching Football League
