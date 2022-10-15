@@ -1,11 +1,12 @@
 ![tjswodud's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjswodud&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjswodud&layout=compact&theme=dracula&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-# 😎 About me
-- <b>Kyung Hee Univ.</b> Software Convergence - Game Contents Track (2020.03~)
+# 😎 PROFILE
+- <b>경희대학교</b> 소프트웨어융합학과 게임콘텐츠트랙 (2020.03~)
 <br>
 
-- Vice Chairman of &nbsp; <a href="https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ"><img src="https://img.shields.io/badge/소융튜브-FF0000?style=flat&logo=youtube"></a>
+- <a href="https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ"><img src="https://img.shields.io/badge/소융튜브-FF0000?style=flat&logo=youtube"></a> 편집부 (2020.03~)
+  - 동아리 부회장 (2022)
 <br>
 
 # &#128218; TECH STACK
@@ -27,16 +28,16 @@
 
 <br>
 
-# ✍️ Personal Blog
+# ✍️ 개인 블로그
 
-[Tistory](https://chukdukdev.tistory.com/) - University lecture 🎓
+[Tistory](https://chukdukdev.tistory.com/) - 대학 강의 정리집 🎓
 <br>
-[Velog](https://velog.io/@tjswodud) - Development study 💻
+[Velog](https://velog.io/@tjswodud) - 개발 공부 정리집 💻
 <br>
-[Notion blog](https://tjswodud.notion.site/) - Portpolio 📋
+[Notion blog](https://tjswodud.notion.site/) - 포트폴리오 📋
 <br>
 
-# 📖 I'm studying now...
+# 📖 하고 있는 공부
 
 [Algorithm](https://tjswodud.notion.site/Foundations-of-Algorithms-83ea5a52233e4120bb6b8b9845c7bec7)
 <br>
@@ -44,12 +45,12 @@
 <br>
 Database (SQL)
 
-# &#127955; Hobby
+# &#127955; 취미
 
-🎮 Video Game
+🎮 게임
 <br>
 
-⚽ Watching Football League
+⚽ 축구 시청
 <br>
 
 
