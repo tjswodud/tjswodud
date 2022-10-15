@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&section=header&text=Hello%20World%20:%29&fontSize=30)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjswodud&layout=compact&theme=dracula&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
-![tjswodud's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjswodud&show_icons=true&theme=dracula)
 
 # 😎 PROFILE
 - <b>경희대학교</b> 소프트웨어융합학과 게임콘텐츠트랙 (2020.03~)
