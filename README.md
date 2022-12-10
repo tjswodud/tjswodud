@@ -35,28 +35,20 @@
 
 # ✍️ 개인 블로그
 
-[티스토리](https://chukdukdev.tistory.com/) - 대학 강의 정리집 🎓
-<br>
-[Velog](https://velog.io/@tjswodud) - 개발 공부 정리집 💻
-<br>
-[노션 블로그](https://tjswodud.notion.site/Jaeyoung-Seon-70d6c8d4d1264d0eb9199e07d1685b8c) - 포트폴리오 📋
-<br>
+* [티스토리](https://chukdukdev.tistory.com/) - 대학 강의 정리집 🎓
+* [Velog](https://velog.io/@tjswodud) - 개발 공부 정리집 💻
+* [노션 블로그](https://tjswodud.notion.site/Jaeyoung-Seon-70d6c8d4d1264d0eb9199e07d1685b8c) - 포트폴리오 📋
 
 # 📖 하고 있는 공부
 
-Algorithm
-<br>
-[Deep Learning](https://velog.io/@tjswodud/%EB%94%A5%EB%9F%AC%EB%8B%9D-01.-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80-Linear-Regression)
-<br>
-Database (SQL)
+* Algorithm
+* [Deep Learning](https://velog.io/@tjswodud/%EB%94%A5%EB%9F%AC%EB%8B%9D-01.-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80-Linear-Regression)
+* Database (SQL)
 
 # &#127955; 취미
 
-🎮 게임
-<br>
-
-⚽ 축구 시청
-<br>
+* 🎮 게임
+* ⚽ 축구 시청
 
 
 # 🔗 Contact
