@@ -42,7 +42,7 @@
 # 📖 하고 있는 공부
 
 * Deep Learning
-* [Reinforcement Learning](https://velog.io/@tjswodud/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-Introduction)
+* [Reinforcement Learning](https://velog.io/@tjswodud/series/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5)
 
 # 🔗 Contact
 
