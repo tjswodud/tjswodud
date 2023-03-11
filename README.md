@@ -10,7 +10,7 @@
 - <b>경희대학교</b> 소프트웨어융합학과 게임콘텐츠트랙 (2020.03~)
 <br>
 
-- <a href="https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ"><img src="https://img.shields.io/badge/소융튜브-FF0000?style=flat&logo=youtube"></a> 편집부 (2020.03~)
+- <a href="https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ"><img src="https://img.shields.io/badge/소융튜브-FF0000?style=flat&logo=youtube"></a> 편집부 (2020.03~2023.03)
   - 동아리 부회장 (2022)
 <br>
 
