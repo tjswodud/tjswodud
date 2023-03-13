@@ -42,8 +42,8 @@
 # 📖 하고 있는 공부
 
 * Deep Learning
-* [Reinforcement Learning](https://velog.io/@tjswodud/series/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5)
-* [Machine Learning](https://velog.io/@tjswodud/series/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5)
+* Reinforcement Learning
+* Machine Learning
 
 # 🔗 Contact
 
