@@ -35,9 +35,9 @@
 
 # ✍️ 개인 블로그
 
-* [티스토리](https://chukdukdev.tistory.com/) - 대학 강의 정리집 🎓
-* [Velog](https://velog.io/@tjswodud) - 개발 공부 정리집 💻
-* [노션 블로그](https://tjswodud.notion.site/Jaeyoung-Seon-70d6c8d4d1264d0eb9199e07d1685b8c) - 포트폴리오 📋
+* [티스토리](https://chukdukdev.tistory.com/)
+* [Velog](https://velog.io/@tjswodud)
+* [노션 블로그](https://tjswodud.notion.site/Jaeyoung-Seon-70d6c8d4d1264d0eb9199e07d1685b8c) (Portfolio)
 
 # 📖 하고 있는 공부
 
