@@ -1,20 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&section=header&text=Hello%20World%20:%29&fontSize=30)
-
-<div align="center">
-
+![tjswodud's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjswodud&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjswodud&layout=compact&theme=dracula&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
-# 😎 PROFILE
-- <b>경희대학교</b> 소프트웨어융합학과 게임콘텐츠트랙 (2020.03~)
+## 😎 Profile
+- Kyung Hee Univ. Department of Software Convergence (2020.03~)
 <br>
 
-- <a href="https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ"><img src="https://img.shields.io/badge/소융튜브-FF0000?style=flat&logo=youtube"></a> 편집부 (2020.03~2023.03)
-  - 동아리 부회장 (2022)
+- <a href="https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ"><img src="https://img.shields.io/badge/소융튜브-FF0000?style=flat&logo=youtube"></a> Editing department (2020.03~2023.03)
+  - Vice chairman (2022)
 <br>
 
-# &#128218; TECH STACK
+## &#128218; Tech Stack
 <div align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -33,19 +28,18 @@
 
 <br>
 
-# ✍️ 개인 블로그
+## ✍️ Blogs
 
-* [티스토리](https://chukdukdev.tistory.com/)
+* [Tistory](https://chukdukdev.tistory.com/)
 * [Velog](https://velog.io/@tjswodud)
-* [노션 블로그](https://tjswodud.notion.site/Jaeyoung-Seon-70d6c8d4d1264d0eb9199e07d1685b8c) (Portfolio)
+* [Portpolio](https://tjswodud.notion.site/Jaeyoung-Seon-70d6c8d4d1264d0eb9199e07d1685b8c)
 
-# 📖 하고 있는 공부
+## 📖 Interests
 
-* Deep Learning
+* Character Animation
 * Reinforcement Learning
-* Machine Learning
+* Deep Learning
 
-# 🔗 Contact
+## 🔗 Contact
 
-<a href="https://www.instagram.com/jae_young.02" target="_blank"><img src="https://img.shields.io/badge/jae_young.02-white?style=round-square&logo=Instagram&logoColor=E4405F"/></a>
 <a href="mailto:tjswodud85@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-F07C3E?style=round-square&logo=Gmail&logoColor=EA4335"/></a>
