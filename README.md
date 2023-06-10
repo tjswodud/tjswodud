@@ -3,9 +3,8 @@
 
 ## 😎 Profile
 - Kyung Hee Univ. Department of Software Convergence (2020.03~)
-<br>
 
-- <a href="https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ"><img src="https://img.shields.io/badge/소융튜브-FF0000?style=flat&logo=youtube"></a> Editing department (2020.03~2023.03)
+- <a href="https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ"><img src="https://img.shields.io/badge/SWTube-FF0000?style=flat&logo=youtube"></a> Editing department (2020.03~2023.03)
   - Vice chairman (2022)
 <br>
 
