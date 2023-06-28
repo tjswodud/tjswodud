@@ -6,6 +6,8 @@
 
 - <a href="https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ"><img src="https://img.shields.io/badge/SWTube-FF0000?style=flat&logo=youtube"></a> Editing department (2020.03~2023.03)
   - Vice chairman (2022)
+
+- IIIXR lab - Undergraduate Researcher (2023.06~)
 <br>
 
 ## &#128218; Tech Stack
