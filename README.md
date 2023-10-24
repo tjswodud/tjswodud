@@ -31,7 +31,6 @@
 
 ## ✍️ Blogs
 
-* [Tistory](https://chukdukdev.tistory.com/)
 * [Velog](https://velog.io/@tjswodud)
 * [Portpolio](https://tjswodud.notion.site/Jaeyoung-Seon-70d6c8d4d1264d0eb9199e07d1685b8c)
 
