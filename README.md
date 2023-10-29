@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjswodud&layout=compact&theme=dracula&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 😎 Profile
-- Kyung Hee Univ. Department of Software Convergence (2020.03~)
+- Kyung Hee Univ. Department of Software Convergence (2020.03~2024.02)
 
 - [SWTube](https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ) - Editing department (2020.03~2023.03)
   - Vice chairman (2022)
