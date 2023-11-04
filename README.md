@@ -7,7 +7,7 @@
 - [SWTube](https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ) - Editing department (2020.03~2023.03)
   - Vice chairman (2022)
 
-- IIIXR lab - Undergraduate Researcher (2023.06~)
+- [IIIXR lab](https://iiixr.khu.ac.kr/) - Undergraduate Researcher (2023.06~)
 <br>
 
 ## &#128218; Tech Stack
