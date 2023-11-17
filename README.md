@@ -25,6 +25,10 @@
 
 <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128.svg?&style=for-the-badge&logo=UnrealEngine&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
+
 </div>
 
 <br>
