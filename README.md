@@ -41,6 +41,7 @@
 ## 📖 Interests
 
 * Character Animation
+  - Motion Retargeting
 * Reinforcement Learning
 * Deep Learning
 
