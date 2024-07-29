@@ -9,7 +9,7 @@
   - Vice chairman (2022)
 
 - [IIIXR lab](https://iiixr.khu.ac.kr/) - Undergraduate Researcher (2023.06~)
-  - Ph.D. student (2024.03~)
+  - Integrated Ph.D. student (2024.03~)
 <br>
 
 ## &#128218; Tech Stack
