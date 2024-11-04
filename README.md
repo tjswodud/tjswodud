@@ -3,13 +3,12 @@
 
 ## 😎 Profile
 - Kyung Hee Univ. Department of Software Convergence (2020.03~2024.02)
-  - Ph.D. student at Kyung Hee Univ. Department of Artificial Intelligence (2024.03~)
+  - Integrated Ph.D. student at Kyung Hee Univ. Department of Artificial Intelligence (2024.03~)
 
 - [SWTube](https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ) - Editing department (2020.03~2023.03)
   - Vice chairman (2022)
 
-- [IIIXR lab](https://iiixr.khu.ac.kr/) - Undergraduate Researcher (2023.06~)
-  - Integrated Ph.D. student (2024.03~)
+- [IIIXR lab](https://iiixr.khu.ac.kr/) - (2023.06~)
 <br>
 
 ## &#128218; Tech Stack
