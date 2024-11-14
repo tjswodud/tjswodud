@@ -42,7 +42,7 @@
 ## 📖 Interests
 
 * Character Animation
-  - Text to motion synthesis
+  - Text to motion generation
 
 ## 🔗 Contact
 
