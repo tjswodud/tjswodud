@@ -2,8 +2,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjswodud&layout=compact&theme=dracula&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 😎 Profile
-- Kyung Hee Univ.
-  - B.S student at Department of Software Convergence (2020.03~2024.02)
+- Kyung Hee University. Republic of Korea.
+  - B.S. student at Department of Software Convergence (2020.03~2024.02)
   - Integrated Ph.D. student at Department of Artificial Intelligence (2024.03~)
 
 - [SWTube](https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ) - Editing department (2020.03~2023.03)
