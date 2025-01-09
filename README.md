@@ -6,7 +6,7 @@
   - B.S. student at Department of Software Convergence (2020.03~2024.02)
   - Integrated Ph.D. student at Department of Artificial Intelligence (2024.03~)
 
-- [SWTube](https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ), a video production club at Kyung Hee Univ.
+- [SWTube](https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ) - A video production club at Kyung Hee Univ.
   - Editing department (2020.03~2023.03)
   - Vice chairman (2022)
 
