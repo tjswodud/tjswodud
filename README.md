@@ -4,7 +4,7 @@
 ## 😎 Profile
 - Kyung Hee University, Republic of Korea.
   - B.S. student at Department of Software Convergence (2020.03~2024.02)
-  - Integrated Ph.D. student at Department of Artificial Intelligence (2024.03~)
+  - M.S. student at Department of Artificial Intelligence (2024.03~)
  
 - [IIIXR lab](https://iiixr.khu.ac.kr/) - (2023.06~)
 
