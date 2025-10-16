@@ -50,4 +50,4 @@
 ## 🔗 Contact
 
 <a href="mailto:tjswodud85@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-F07C3E?style=round-square&logo=Gmail&logoColor=EA4335"/></a>
-<a href="https://www.linkedin.com/in/%EC%9E%AC%EC%98%81-%EC%84%A0-991625298/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jaeyoung-seon-991625298" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
