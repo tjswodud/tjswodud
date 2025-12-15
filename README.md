@@ -4,9 +4,9 @@
 ## 😎 Profile
 - Kyung Hee University, Republic of Korea.
   - B.S. student at Department of Software Convergence (2020.03~2024.02)
-  - M.S. student at Department of Artificial Intelligence (2024.03~)
+  - M.S. student at Department of Artificial Intelligence (2024.03~2026.02)
  
-- [IIIXR lab](https://iiixr.khu.ac.kr/) - (2023.06~)
+- [IIIXR lab](https://iiixr.khu.ac.kr/) - (2023.06~2026.02)
 
 - [SWTube](https://www.youtube.com/channel/UCoJhIFodUrsH8suAe0kYDzQ) - A video production club at Kyung Hee Univ.
   - Editing department (2020.03~2023.03)
