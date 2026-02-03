@@ -1,6 +1,3 @@
-![tjswodud's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjswodud&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjswodud&layout=compact&theme=dracula&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 😎 Profile
 - Kyung Hee University, Republic of Korea.
   - B.S. student at Department of Software Convergence (2020.03~2024.02)
