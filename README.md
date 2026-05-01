@@ -29,6 +29,7 @@
             <a href="https://github-stats-phi-nine.vercel.app/api?username=tjswodud"><img height=180 align="center"src="https://github-stats-phi-nine.vercel.app/api?username=tjswodud&theme=github_dark"/></a>
             <a href="https://github.com/tjswodudr/"><img height=180 align="center" src="https://github-stats-phi-nine.vercel.app/api/top-langs?username=tjswodud&theme=github_dark&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook,swig,php,fluent&exclude_repo=alice"/></a>
     </div>
+</div>
     
 ---    
 
