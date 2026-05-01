@@ -24,9 +24,10 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tjswodud&custom_title=tjswodud's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tjswodud&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
+        <div align= "center">
+            <a href="https://github-stats-phi-nine.vercel.app/api?username=tjswodud"><img height=180 align="center"src="https://github-stats-phi-nine.vercel.app/api?username=tjswodud&theme=github_dark"/></a>
+            <a href="https://github.com/tjswodudr/"><img height=180 align="center" src="https://github-stats-phi-nine.vercel.app/api/top-langs?username=tjswodud&theme=github_dark&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook,swig,php,fluent&exclude_repo=alice"/></a>
     </div>
     
 ---    
